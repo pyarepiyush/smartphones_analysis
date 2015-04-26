@@ -1,9 +1,16 @@
-### Features
+### CodeBook for Human Activity Recognition Using Smartphones Data Set 
+
+This Codebook describes the dataset and the variables for the aggregated measures.
+
+#### Output Dataset
+ 
+contains aggregate values for mean and standard deviation of each measure BY `Activity level` and `Subject`. It is stored in `UCI HAR Dataset/` directory, and uploaded into the assignment page.
+
+#### Features
 
 * Subject: Unique identifier fr each subject. There are 30 unique values
 
 * Activity: Factor with 6 levels: WALKING,  WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING and LAYING 
-
 
  
 
